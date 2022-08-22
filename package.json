@@ -13,5 +13,9 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:arthuroliver/smart-review-app.git",
+  "author": "arthuroliver <arthur1606@gmail.com>",
+  "license": "MIT"
 }
