@@ -18,6 +18,8 @@ gem 'webpacker', '~> 5.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
 
+gem 'faker'
+
 gem 'devise'
 
 gem 'rails-i18n'
